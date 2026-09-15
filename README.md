@@ -11,3 +11,4 @@ Open `LinkSphere.xcodeproj` in Xcode and run the `LinkSphere` scheme on a simula
 
 ## Status
 Personal / learning project by [CodeCrafter](https://www.codecrafter.dev/).
+
